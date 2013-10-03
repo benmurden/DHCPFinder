@@ -5,8 +5,8 @@ Find rogue DHCP servers messing around with your network.
 
 ## Requirements ##
 
-* WinPcap
-* SharpPcap 4.0
+* [WinPcap](http://www.winpcap.org/)
+* [SharpPcap 4.0](http://sourceforge.net/projects/sharppcap/)
  
 ## Purpose ##
 
